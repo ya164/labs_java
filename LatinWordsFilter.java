@@ -1,3 +1,8 @@
+/*
+Лабораторна 1, Варіант 3
+Група ІА-32, Діденко Я.О
+*/
+
 import java.util.ArrayList;
 import java.util.List;
 
