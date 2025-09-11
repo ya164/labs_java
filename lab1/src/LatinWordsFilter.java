@@ -1,3 +1,8 @@
+/*
+  Лаб 1, Варіант 3
+  Діденко Я.О, група ІА-32
+*/
+
 import java.util.ArrayList;
 import java.util.List;
 
